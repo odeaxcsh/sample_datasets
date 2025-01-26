@@ -1,0 +1,9 @@
+/home/abolfazl/Code/PlaneBasedPCR/data/RESSO/figure_7d/part0.ply
+/home/abolfazl/Code/PlaneBasedPCR/data/RESSO/figure_7d/part1.ply
+
+/home/abolfazl/Code/PlaneBasedPCR/data/RESSO/figure_7d/part0.ply
+/home/abolfazl/Code/PlaneBasedPCR/data/RESSO/figure_7d/part2.ply
+
+/home/abolfazl/Code/PlaneBasedPCR/data/RESSO/figure_7d/part1.ply
+/home/abolfazl/Code/PlaneBasedPCR/data/RESSO/figure_7d/part2.ply
+

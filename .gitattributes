@@ -1,0 +1,4 @@
+ETH/ filter=lfs diff=lfs merge=lfs -text
+7-Scenes/ filter=lfs diff=lfs merge=lfs -text
+RESSO/ filter=lfs diff=lfs merge=lfs -text
+Sun3D/ filter=lfs diff=lfs merge=lfs -text
